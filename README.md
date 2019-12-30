@@ -1,6 +1,27 @@
 # NgMat8Theme
 
+Ejercicio tomado de :
+
+https://www.positronx.io/create-angular-material-8-custom-theme/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+
+## Pasos seguidos para este proyecto
+
+$ ng new ng-mat8-theme
+
+```
+ ? Would you like to add Angular routing? Yes
+ ? Which stylesheet format would you like to use? SCSS
+```
+
+$ cd ng-mat8-theme
+
+$ ng add @angular/material
+
+Seleccionar uno de los themes predeterminados
+
+Seleccionar (Y) en Hammer.js y browser animations.
 
 ## Development server
 
