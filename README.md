@@ -8,6 +8,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Pasos seguidos para este proyecto
 
+
+### 1 Crear Proyecto
+
 $ ng new ng-mat8-theme
 
 ```
@@ -17,11 +20,20 @@ $ ng new ng-mat8-theme
 
 $ cd ng-mat8-theme
 
+### 2 Implementar libreria Andular Material
+
 $ ng add @angular/material
 
 Seleccionar uno de los themes predeterminados
 
 Seleccionar (Y) en Hammer.js y browser animations.
+
+### 3 Crear archivo Module para angular material
+
+Crear angular-material.module.ts y se agregó código (ver repo).
+
+Importar el modulo en app.module.ts (ver repo)
+
 
 ## Development server
 
